@@ -6,6 +6,7 @@ As the focus of this example revolves around the algorithmic part, EDA (explorat
 
 # Installation
 The example is written in python and running the following lines in the command line would install the necessary packages:
+
         oefijwef
         welfewfm
         
